@@ -4,7 +4,7 @@
 <h1 align="center"> Acadmica </h1>
 
 <p align="center">
-Acadmica is running with aim the of becoming india's biggest students community where students can help each other by sharing notes among them. We are engineering student ourselves and we know the problems that an engineering student faces in their college. College, development, coding, internships, placement preparation and what not. But we are providing notes, study materials, coding questions for placements all in one place. We go through the internet find the best resources for and serve you at one place. Also if a student feels that his notes/study materials can help others, he or she can post the materials to us, in return of that you will be getting fame on social media handles.
+Acadmica a is running with aim the of becoming india's biggest students community where students can help each other by sharing notes among them. We are engineering student ourselves and we know the problems that an engineering student faces in their college. College, development, coding, internships, placement preparation and what not. But we are providing notes, study materials, coding questions for placements all in one place. We go through the internet find the best resources for and serve you at one place. Also if a student feels that his notes/study materials can help others, he or she can post the materials to us, in return of that you will be getting fame on social media handles.
 </p>
 
  # Folder Structure
